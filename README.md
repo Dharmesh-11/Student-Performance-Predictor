@@ -36,77 +36,78 @@ Student-Performance-Predictor/
 ## 🚀 Installation & Setup
 
 ### 1️⃣ Clone the Repository
-```bash
+```
 git clone https://github.com/your-username/Student-Performance-Predictor.git
 cd Student-Performance-Predictor
+```
 
 2️⃣ Create Virtual Environment (Optional but Recommended)
-bash
+```
 python -m venv venv
 source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
+```
 
 3️⃣ Install Dependencies
-bash
+```
 pip install -r requirements.txt
+```
 
 4️⃣ Run the Application
+
 Streamlit App
 
-bash
+```
 streamlit run app.py
-Tkinter GUI
+```
 
-bash
-Copy code
-python app.py
 📊 Dataset
+
 The dataset can include the following features:
 
-Study hours per day
+1)Study hours per day
 
-Attendance percentage
+2)Attendance percentage
 
-Internal assessment marks
+3)Internal assessment marks
 
-Previous exam scores
+4)Previous exam scores
 
-Extra-curricular activities
-
-Family background & support
 
 📌 Example Public Dataset: UCI Student Performance Dataset
 
-🤖 Machine Learning Workflow
-Data Preprocessing
+🤖 Machine Learning Workflow:-
 
-Handling missing values
+1)Data Preprocessing
 
-Encoding categorical data
+2)Handling missing values
 
-Feature scaling
+3)Encoding categorical data
 
-Model Training
+4)Feature scaling
 
-Logistic Regression
+5)Model Training
 
-Linear Regression 
+6)Logistic Regression
 
-Model Evaluation
+7)Linear Regression 
 
-Accuracy
+8)Model Evaluation
 
-Precision
+9)Accuracy
 
-Recall
+10)Precision
 
-F1-Score
+11)Recall
 
-Deployment
+12)F1-Score
+
+13)Deployment
 
 Streamlit for Web App
 
 ☁️ Deployment
+
 Deploy on Streamlit Cloud (Free)
 
 Use Heroku / Render for cloud hosting
@@ -114,6 +115,7 @@ Use Heroku / Render for cloud hosting
 Containerize with Docker for scalable deployment
 
 🛠 Tech Stack
+
 Programming Language: Python 🐍
 
 ML Libraries: scikit-learn, pandas, numpy, matplotlib, seaborn
