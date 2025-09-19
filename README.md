@@ -25,12 +25,19 @@ The **Student Performance Predictor** is a Machine Learning application designed
 
 ## 📂 Project Structure
 Student-Performance-Predictor/
+
 │── data/ # Dataset files (CSV, Excel)
+
 │── train.py/ # Jupyter notebooks (EDA, training, testing)
+
 │── models/ # Saved trained ML model (.pkl file)
+
 │── app.py # Main application (Streamlit/Tkinter)
+
 │── requirements.txt # Dependencies
+
 │── README.md # Documentation
+
 │── LICENSE # License file
 
 ## 🚀 Installation & Setup
