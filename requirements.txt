@@ -4,4 +4,4 @@ scikit-learn
 streamlit
 pandas
 numpy
-pickle
+pickle-mixin
