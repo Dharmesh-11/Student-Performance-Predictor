@@ -133,4 +133,7 @@ Version Control: Git & GitHub
 
 
 # 🧑‍💻Author:
-Dharmesh Panpatil
+
+👤 Dharmesh Panpatil
+
+📧 dharmeshpanpatil01@gmial.com
